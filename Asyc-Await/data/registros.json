@@ -1,0 +1,26 @@
+[
+    {
+        "nombre":"David",
+        "apellido":"Romero",
+        "telefono":7712345467
+
+    },
+    {
+        "nombre":"Misael",
+        "apellido":"Morales",
+        "telefono":7717896549
+
+    },
+    {
+        "nombre":"Jonathan",
+        "apellido":"Hernandez",
+        "telefono":7710987657
+
+    },
+    {
+        "nombre":"Miguel",
+        "apellido":"Cano",
+        "telefono":1234567890
+
+    }
+]
